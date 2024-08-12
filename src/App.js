@@ -30,7 +30,7 @@ class App extends Component {
         placeholder='Search Moster'
         headleCharge={e => this.setState({ SearchField: e.target.value })}
         />
-        <CardList monsters={filteredMonsters} /> {/* Pass the filtered list */}
+        <CardList monsters={filteredMonsters} /> 
       </div>
     );
   }
