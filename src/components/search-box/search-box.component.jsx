@@ -10,6 +10,6 @@ export const SearchBox = ({placeholder,headleCharge}) => (
     type='search'
     placeholder={placeholder}
     onChange={headleCharge}
-    //jj3455ed
+    //jj3455edDGFFHHG
   />
 )
